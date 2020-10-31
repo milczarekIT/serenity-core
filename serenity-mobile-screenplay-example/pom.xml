@@ -18,8 +18,8 @@
 		<webdriver.driver>appium</webdriver.driver>
 		<serenity.maven.version>2.0.69</serenity.maven.version>
 		<serenity.cucumber.version>1.0.21</serenity.cucumber.version>
-		<cucumber.version>4.2.0</cucumber.version>
-		<serenity.test.root></serenity.test.root>
+		<cucumber.version>6.8.2</cucumber.version>
+		<serenity.test.root/>
 	</properties>
 
 	<repositories>
