@@ -20,7 +20,7 @@
         <dependency>
             <groupId>net.thucydides</groupId>
             <artifactId>thucydides-core</artifactId>
-            <version>0.8.31</version>
+            <version>0.9.131-NS</version>
             <exclusions>
             	<exclusion>
             		<groupId>log4j</groupId>
