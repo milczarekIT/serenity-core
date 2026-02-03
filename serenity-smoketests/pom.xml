@@ -14,12 +14,12 @@
         <serenity.version>2.0.21-SNAPSHOT</serenity.version>
         <serenity.maven.version>2.0.20</serenity.maven.version>
         <parallel.tests>4</parallel.tests>
-        <browserstack.url></browserstack.url>
-        <browserstack.os></browserstack.os>
-        <browserstack.os_version></browserstack.os_version>
-        <browserstack.browserName></browserstack.browserName>
-        <browserstack.browser></browserstack.browser>
-        <browserstack.version></browserstack.version>
+        <browserstack.url/>
+        <browserstack.os/>
+        <browserstack.os_version/>
+        <browserstack.browserName/>
+        <browserstack.browser/>
+        <browserstack.version/>
     </properties>
 
     <repositories>
@@ -78,7 +78,7 @@
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
-            <version>1.7.0</version>
+            <version>3.27.7</version>
         </dependency>
         <dependency>
             <groupId>org.hamcrest</groupId>
